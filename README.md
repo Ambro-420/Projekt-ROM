@@ -1,4 +1,4 @@
-# Projekt-ROM
+# Letni koledar v Mathematici
 Projektna naloga ROM
 
 V Mathematici bom naredil program ki za dane podatke, število mesecev,
