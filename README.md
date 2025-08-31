@@ -7,3 +7,8 @@ koledar.
 
 ### Posnetek predstave
 https://youtu.be/G249LyMt-Sc
+
+### Povezava do aplikacije
+https://www.wolframcloud.com/obj/ap40514/Published/ROM_projektna_naloga.nb
+
+Pripravil: *Ambrož Pleško*
